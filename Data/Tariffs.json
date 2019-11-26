@@ -1,0 +1,26 @@
+﻿[
+  {
+    "Minutes": 15,
+    "Rate": 0
+  },
+  {
+    "Minutes": 60,
+    "Rate": 50
+  },
+  {
+    "Minutes": 120,
+    "Rate": 100
+  },
+  {
+    "Minutes": 180,
+    "Rate": 140
+  },
+  {
+    "Minutes": 240,
+    "Rate": 180
+  },
+  {
+    "Minutes": 300,
+    "Rate": 200
+  }
+]

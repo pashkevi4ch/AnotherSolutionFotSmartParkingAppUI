@@ -1,0 +1,9 @@
+C:\Users\Pavel Petrov\Desktop\Sonya\SFKASl\bin\Debug\SFKASl.exe.config
+C:\Users\Pavel Petrov\Desktop\Sonya\SFKASl\bin\Debug\SFKASl.exe
+C:\Users\Pavel Petrov\Desktop\Sonya\SFKASl\bin\Debug\SFKASl.pdb
+C:\Users\Pavel Petrov\Desktop\Sonya\SFKASl\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pavel Petrov\Desktop\Sonya\SFKASl\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pavel Petrov\Desktop\Sonya\SFKASl\obj\Debug\SFKASl.csprojAssemblyReference.cache
+C:\Users\Pavel Petrov\Desktop\Sonya\SFKASl\obj\Debug\SFKASl.csproj.CopyComplete
+C:\Users\Pavel Petrov\Desktop\Sonya\SFKASl\obj\Debug\SFKASl.exe
+C:\Users\Pavel Petrov\Desktop\Sonya\SFKASl\obj\Debug\SFKASl.pdb

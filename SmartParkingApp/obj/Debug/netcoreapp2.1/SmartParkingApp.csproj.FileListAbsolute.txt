@@ -1,0 +1,10 @@
+C:\Users\Pavel Petrov\Desktop\Sonya\SmartParkingApp\bin\Debug\netcoreapp2.1\SmartParkingApp.deps.json
+C:\Users\Pavel Petrov\Desktop\Sonya\SmartParkingApp\bin\Debug\netcoreapp2.1\SmartParkingApp.runtimeconfig.json
+C:\Users\Pavel Petrov\Desktop\Sonya\SmartParkingApp\bin\Debug\netcoreapp2.1\SmartParkingApp.runtimeconfig.dev.json
+C:\Users\Pavel Petrov\Desktop\Sonya\SmartParkingApp\bin\Debug\netcoreapp2.1\SmartParkingApp.dll
+C:\Users\Pavel Petrov\Desktop\Sonya\SmartParkingApp\bin\Debug\netcoreapp2.1\SmartParkingApp.pdb
+C:\Users\Pavel Petrov\Desktop\Sonya\SmartParkingApp\obj\Debug\netcoreapp2.1\SmartParkingApp.csprojAssemblyReference.cache
+C:\Users\Pavel Petrov\Desktop\Sonya\SmartParkingApp\obj\Debug\netcoreapp2.1\SmartParkingApp.AssemblyInfoInputs.cache
+C:\Users\Pavel Petrov\Desktop\Sonya\SmartParkingApp\obj\Debug\netcoreapp2.1\SmartParkingApp.AssemblyInfo.cs
+C:\Users\Pavel Petrov\Desktop\Sonya\SmartParkingApp\obj\Debug\netcoreapp2.1\SmartParkingApp.dll
+C:\Users\Pavel Petrov\Desktop\Sonya\SmartParkingApp\obj\Debug\netcoreapp2.1\SmartParkingApp.pdb
